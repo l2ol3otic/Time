@@ -1,0 +1,7 @@
+#Mon Apr 03 13:53:24 ICT 2017
+base.0=D\:\\programing\\Time2\\Time2\\Time\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_381a1d6d47d35e68cd219cd44b82db1113d69a51
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=D\:\\programing\\Time2\\Time2\\Time\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_41d81843104993106b7b3e47fc225113d6d627a3\\classes.dex
+base.1=D\:\\programing\\Time2\\Time2\\Time\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_41d81843104993106b7b3e47fc225113d6d627a3
+file.0=D\:\\programing\\Time2\\Time2\\Time\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_381a1d6d47d35e68cd219cd44b82db1113d69a51\\classes.dex

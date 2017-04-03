@@ -1,0 +1,4 @@
+#Mon Apr 03 13:35:08 ICT 2017
+base.0=D\:\\programing\\Time2\\Time2\\Time\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1
+renamed.0=classes.dex
+file.0=D\:\\programing\\Time2\\Time2\\Time\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_1\\classes.dex
